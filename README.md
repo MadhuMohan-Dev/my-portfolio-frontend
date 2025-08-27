@@ -1,2 +1,2 @@
 # my-portfolio-frontend
-This is my portfolio
+This is my personal portfolio
